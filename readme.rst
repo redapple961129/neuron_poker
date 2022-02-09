@@ -57,7 +57,7 @@ Note that the observation property is a dictionary that contains all the informa
 Custom implementation of q learning
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Custom impelemtation of reinforcement learning. This package is now in a separate repo:
-www.github.com/dickreuter/tf_rl
+www.github.com/redapple961129/tf_rl
 
 
 tools
